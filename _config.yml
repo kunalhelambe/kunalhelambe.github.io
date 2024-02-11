@@ -6,6 +6,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mywebsite.com" # the base hostname & protocol for your site
 
 # Build settings
-theme: dinky
+theme: minima
 plugins:
   - jekyll-feed
