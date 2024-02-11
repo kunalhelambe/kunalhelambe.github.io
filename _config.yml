@@ -1,0 +1,11 @@
+title: My GitHub Pages Site
+email: myemail@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my awesome GitHub Pages site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://mywebsite.com" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
